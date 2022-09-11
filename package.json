@@ -1,0 +1,22 @@
+{
+  "name": "ownwebbrowser",
+  "version": "1.0.0",
+  "description": "나만의 웹브라우저를 만들어보자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubleyou77/OwnWebBrowser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doubleyou77/OwnWebBrowser/issues"
+  },
+  "devDependencies": {
+    "electron": "^20.1.3"
+  }
+}
